@@ -68,7 +68,7 @@ Gigalaga is a single source file, `gigalaga.iwb`, for **IWBasic** (it uses the s
 
 ## Credits
 
-- Game design, code, art, music: *[your name / handle here]*
+- Game design, code, art, music: *Yannick Dalissier*
 - Inspired by Namco's **Galaga**.
 - The 15 level layouts are derived from the **XGalaga** `.xgl` levels, and the way stages change and the ship respawns follows ideas from XGalaga.
 
